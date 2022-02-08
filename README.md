@@ -7,4 +7,5 @@
 # Uruchamianie
  1. Zacznij od zainstalowania pythona (ZAZNACZ ABY DODAĆ DO PATH (nie pamietam))
  2. Zrestartuj komputer
- 3. W cmd (w folderze)
+ 3. W cmd (w folderze) wpisz `pip install -r requirements.txt`
+ 4. Wpisz potem `python DOG.py`
